@@ -1,0 +1,1 @@
+Desenvolvimento de sistema de gerenciamento de hotel em C utilizando structs e arrays bidimensionais para controle de 280 apartamentos. Implementação de funcionalidades como reserva de quartos, check-in/check-out, cancelamento de reservas, visualização do status do hotel e cálculo de taxa de ocupação, com armazenamento de dados de hóspedes.
